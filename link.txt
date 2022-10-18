@@ -1,0 +1,24 @@
+Yang ingin ikut praktikum besok silahkan dipersiapkan aplikasi berikut :
+
+1. Webserver (Xampp terbaru atau yang support PHP versi 7)
+https://www.apachefriends.org/download.html
+
+2. Web Browser (Google Chrome)
+https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw3cSSBhBGEiwAVII0Z7vtEhAp3raLMv4N5d4_jDcoRym6nkZt-E1oEOyXG_RAv7EUkNdECRoCXIMQAvD_BwE&gclsrc=aw.ds
+
+3. Text Editor (Visual Studio Code + Plugins Tambahan)
+https://code.visualstudio.com/download
+
+4. Tutorial instalasi beserta cara instal plugins VSC
+https://youtu.be/8dplCdKkDoo
+
+5. Template Jadi Bootstrap 5
+https://drive.google.com/file/d/1MdiLwsekh9wQxT8vnnP833nJyZFtqhOK/view?usp=sharing
+
+https://drive.google.com/file/d/1O4B6a95kx3C1NdVMKNGzcMq-QXA2QO8K/view?usp=drivesdk
+
+https://drive.google.com/file/d/11fPBFKZlC9kef_WdIKIF_83z6zYy43KT/view?usp=drivesdk
+
+https://drive.google.com/file/d/1Ad__4vbXOlFOuFHepXx33XPeq2hndXT6/view?usp=sharing
+
+https://drive.google.com/file/d/1Ip-KOW185FH8VxtwVGh3ThG8_a62E7y9/view?usp=sharing
